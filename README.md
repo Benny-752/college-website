@@ -18,10 +18,12 @@ The College Website Project is a comprehensive website designed to provide stude
 ## Features
 - Informative landing page with college mission and highlights.
 - Detailed program and course listings with descriptions.
+- Contact information and forms for inquiries.
+[//]
 - Event calendar showcasing upcoming college events and activities.
 - Faculty and staff directory with profiles.
-- Contact information and forms for inquiries.
 
+[//]
 ## Screenshots
 ![Screenshot 1](/images/screenshot-home.png)
 
